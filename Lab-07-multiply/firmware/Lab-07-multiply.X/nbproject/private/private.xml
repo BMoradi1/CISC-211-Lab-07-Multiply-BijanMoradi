@@ -11,6 +11,9 @@
         </file>
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/Bijan/Documents/GitHub/CISC-211-Lab-07-Multiply-BijanMoradi/Lab-07-multiply/firmware/src/asmMult.s</file>
+            <file>file:/C:/Users/Bijan/Documents/GitHub/CISC-211-Lab-07-Multiply-BijanMoradi/Lab-07-multiply/firmware/src/main.c</file>
+        </group>
     </open-files>
 </project-private>
